@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(Febuary 2nd, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Carly Blakey)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to configure GitHub and Cloud9, import the lesson 3 folder, and edit the document to demonstrate and understanding of the material.Then commit it.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned why VCS are important, and why GIT is a helpful tool.)
+2. (I learned the difference between modifying and committing. )
+3. (I learned that GIT is helpful because it is locally based. )
